@@ -16,7 +16,7 @@ export const Navbar = () =>{
         </nav>
         <div className="container"> 
 
-        hihihihihiih
+        hihihihihi
             
         </div>
            
