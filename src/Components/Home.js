@@ -1,16 +1,19 @@
 export const Home = () => {
-    return Home (
-
+    return(
         <>
-        
-        
-        <div className="container" id="home">
-            <div className="row">
-                <div className="col">
-                    hello my name is blake
+            <div className="container">
+                <div className="row">
+                    <div className="col">
+                        <img 
+                            className="img-fluid" 
+                            src="images/headshot.jpg" 
+                            alt="headshot"
+                        />
+                    </div>
                 </div>
             </div>
-        </div>
+        
+        
         
         
         </>
