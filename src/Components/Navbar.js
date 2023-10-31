@@ -2,7 +2,7 @@ export const Navbar = () =>{
 
     return(
         <>
-        <nav className="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-md navbar-dark bg-dark justify-content-center">
             <div className="container">
                 <a href="#" className="navbar-brand">Blake Ilagan</a>
                 <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav" aria-controls="nav" aria-label="Expand Navigation">
