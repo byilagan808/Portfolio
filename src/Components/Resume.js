@@ -7,7 +7,7 @@ export const Resume = () => {
         <div className="container" id="resume">
             <div className="row">
                 <div className="col">
-                    hi
+                    hi hihi
                 </div>
             </div>
         </div>
