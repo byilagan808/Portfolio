@@ -11,19 +11,19 @@ export const Navbar = () =>{
                 <div className="collapse navbar-collapse" id="nav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a href="#" className="nav-link active" aria-current="page">Home</a>
+                            <a href="#home" className="nav-link active" aria-current="page">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#" className="nav-link">About Me</a>
+                            <a href="#aboutme" className="nav-link">About Me</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#" className="nav-link">Resume</a>
+                            <a href="#resume" className="nav-link">Resume</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#" className="nav-link">Projects</a>
+                            <a href="#projects" className="nav-link">Projects</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#" className="nav-link">Contact Me</a>
+                            <a href="#contact" className="nav-link">Contact</a>
                         </li>
                     </ul>
                 </div>
