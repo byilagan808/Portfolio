@@ -4,10 +4,10 @@ export const Home = () => {
         <>
         
         
-        <div className="container">
+        <div className="container" id="home">
             <div className="row">
                 <div className="col">
-                    
+                    hi
                 </div>
             </div>
         </div>
