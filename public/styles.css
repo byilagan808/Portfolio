@@ -2,6 +2,10 @@
     font-family: "Lucida Console", Monospace;
 }
 
+.img-fluid{
+    border-radius: 10px;
+}   
+
 .test {
     border: solid;
     border-width: 1px;
