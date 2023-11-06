@@ -6,17 +6,9 @@ export const Home = () => {
                     <div className="col">
                         <img className="img-fluid" src="images/headshot.jpg" alt="headshot"/>
                     </div>
-                    <div className="col">
+                    <div className="col d-flex align-items-center justify-content-center">
                         <div>
-                            <h1>Hello! My name is Blake Ilagan</h1>
-                        </div>
-                        <div>
-                            <p>
-                            Highly motivated learner looking to broaden my knowledge by taking 
-                            on new projects and learning new languages. My primary goal is to excel 
-                            as a frontend or fullstack developer by putting my technical skills and 
-                            knowledge to use. 
-                            </p>
+                            <h1 style={{ textAlign: 'center'}}>Hello! My name is Blake Ilagan</h1>
                         </div>
                     </div>
                 </div>
