@@ -1,7 +1,10 @@
 .navbar {
-    font-family: "Lucida Console", Monospace;
+    font-family:  "Monaco", Monospace;
 }
 
+.app {
+    font-family:  "Monaco", Monospace;
+}
 .img-fluid{
     border-radius: 10px;
 }   

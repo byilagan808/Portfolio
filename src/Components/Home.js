@@ -1,5 +1,5 @@
 export const Home = () => {
-    return(
+    return (
         <>
             <div className="container" style={{ marginTop: '20px' }}>
                 <div className="row">
