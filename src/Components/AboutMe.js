@@ -3,7 +3,7 @@ export const AboutMe = () => {
 
         <>
         
-        <div className="container" id="aboutme" style={{ marginTop: '20px' }}>
+        <div className="container" id="aboutme" style={{ marginTop: '100px', MarginBottom: '100px' }}>
             <div className="row">
                 <div className="col">
                     <div className="card text-white bg-dark mg-3"> 
