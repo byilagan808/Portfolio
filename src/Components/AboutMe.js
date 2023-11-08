@@ -7,11 +7,11 @@ export const AboutMe = () => {
             <div className="row">
                 <div className="col">
                     <div className="card text-white bg-dark mg-3"> 
-                        <div className="card-header" style={{ fontSize: '30px', textAlign: 'center'}}>
+                        <div className="card-header" style={{ fontSize: '35px', textAlign: 'center'}}>
                             ABOUT ME
                         </div>
-                    <div className="card-body">
-                        <p className="card-text text-sm" > 
+                    <div className="card-body" style={{marginTop: '50px', marginBottom: '50px'}}>
+                        <p className="card-text" style={{fontSize: '25px'}}> 
                         I am pursuing a bachelor's degree in information and computer sciences at the University of Hawaii at Manoa. 
                         I grew up in mililani, Hawaii.I developed an interest in coding after taking a handful of computer science 
                         classes in high school. Now I am highly motivated to learn and enhance my knowledge by taking on new tasks 
