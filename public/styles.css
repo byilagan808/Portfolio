@@ -1,7 +1,20 @@
 .navbar {
     font-family:  'Economica';
 }
-
+.navbar .navbar-nav .nav-link:hover{
+    background-color: #900013;
+    color: white; 
+    padding: 16px;
+}
+.navbar{
+    padding: 0;
+}
+.navbar .navbar-nav .nav-link{
+    padding: 16px;
+    transition: all .5s;
+    display: flex;
+    align-items: center;
+}
 .app {
     font-family:  'Economica';
 }
@@ -14,3 +27,4 @@
     border-width: 1px;
     border-color: red;
 }
+
