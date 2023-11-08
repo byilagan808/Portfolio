@@ -1,7 +1,7 @@
 export const Home = () => {
     return (
         <>
-            <div className="container" style={{ marginTop: '100px', MarginBottom: '100px' }}>
+            <div className="container" id="home" style={{paddingTop: 100, paddingBottom: 100}}>
                 <div className="row">
                     <div className="col">
                         <img className="img-fluid" src="images/headshot.jpg" alt="headshot"/>

@@ -4,7 +4,7 @@ export const Resume = () => {
         <>
         
         
-        <div className="container" id="resume" style={{ marginTop: '100px', MarginBottom: '100px' }}>
+        <div className="container" id="resume" style={{paddingTop: 100, paddingBottom: 100}}>
             <div className="row">
                 <div className="col">
                     <h1 style = {{textAlign: 'center', textDecoration: 'underline'}}> RESUME </h1>
