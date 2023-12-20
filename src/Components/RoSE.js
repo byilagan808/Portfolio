@@ -1,7 +1,4 @@
 export const RoSE = () => {
- 
-
-
 
     return(
         <>
