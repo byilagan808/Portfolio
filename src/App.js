@@ -6,15 +6,20 @@ import { PE } from "./Components/PE";
 import { Contact } from "./Components/Contact";
 
 
+
+
 function App() {
     return(
       <div className="app"> 
+
+
         <Navbar/>
         <Home/>
         <AboutMe/>
         <Resume/>
         <PE/>
-        <Contact/>
+        <Contact/> 
+        
       </div>
     )
 
