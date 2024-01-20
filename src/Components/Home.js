@@ -1,6 +1,7 @@
 export const Home = () => {
     return (
         <>
+
             <div className="container" id="home" style={{paddingTop: 100, paddingBottom: 100}}>
                 <div className="row">
                     <div className="col">
@@ -13,9 +14,6 @@ export const Home = () => {
                     </div>
                 </div>
             </div>
-        
-        
-        
         
         </>
 

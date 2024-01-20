@@ -15,7 +15,6 @@ function App() {
         <Resume/>
         <PE/>
         <Contact/>
-
       </div>
     )
 

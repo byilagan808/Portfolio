@@ -1,8 +1,7 @@
-export const Otso = () => {
+export const Portfolio = () => {
     return(
-
         <>
-
+        
         <div className="card col-sm-4 d-flex">
             <img src="images/logo_size.jpg" alt="" className="card-img-top" />
             <div className="card-body">
@@ -13,13 +12,9 @@ export const Otso = () => {
                 </div>
             </div>
         </div>
-
+        
         </>
-
+        
+        
     )
-
-
 }
-
-
-

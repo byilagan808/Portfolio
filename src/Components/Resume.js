@@ -3,7 +3,6 @@ export const Resume = () => {
 
         <>
         
-        
         <div className="container" id="resume" style={{paddingTop: 100, paddingBottom: 100}}>
             <div className="row">
                 <div className="col">
@@ -12,7 +11,6 @@ export const Resume = () => {
                 </div>
             </div>
         </div>
-        
         
         </>
 

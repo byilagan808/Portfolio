@@ -2,6 +2,7 @@ export const Navbar = () =>{
 
     return(
         <>
+        
         <nav className="navbar navbar-expand-md navbar-dark bg-dark justify-content-center fixed-top">
             <div className="container">
                 <a href="#" className="navbar-brand"> BLAKE </a>
