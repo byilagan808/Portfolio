@@ -22,6 +22,10 @@
     border-radius: 10px;
 }   
 
+.icons a{
+    margin-right: 10px;
+}
+
 .test {
     border: solid;
     border-width: 1px;

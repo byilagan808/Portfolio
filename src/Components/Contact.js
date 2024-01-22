@@ -14,7 +14,6 @@ export const Contact = () => {
                         <a href="https://www.linkedin.com/in/blakeilagan/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
                         <a href="https://github.com/byilagan808" target="_blank"><i class="fa-brands fa-github"></i></a>
                         <a href="https://www.instagram.com/blake.ilagan?igsh=MXV1cm94dnNqYXZhcg%3D%3D&utm_source=qr" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
-                        
                     </div>
                 </div>
                 <div className="col">
