@@ -1,4 +1,4 @@
-export const Otso = () => {
+export const bit = () => {
     return(
 
         <>

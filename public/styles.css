@@ -24,6 +24,50 @@
 
 .icons a{
     margin-right: 10px;
+    text-align: none;
+    font-size: 20px;
+    color: #abaaba;
+    display: inline-block;
+    transition: transform 0.5s;
+    
+}
+.icons a:hover{
+    color: #900013;
+    transform: translateY(-5px);
+}
+
+button {
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    background-color:#21202b;
+    color:#abaaba;
+    padding: 14px 50px;
+    transition: transform 0.5s;
+}
+
+button:hover{
+    color:white;
+    background-color: #900013;
+    border: 2px solid #900013;
+    transform: translateY(-2px);
+}
+
+.col form{
+    width: 100%;
+}
+
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #262626;
+    padding: 15px;
+    margin: 15px 0;
+    color:#fff;
+    font-size: 18px;
+    border-radius: 6px; 
+
 }
 
 .test {
@@ -31,4 +75,4 @@
     border-width: 1px;
     border-color: red;
 }
-
+  
