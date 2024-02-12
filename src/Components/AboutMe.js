@@ -61,7 +61,7 @@ export const AboutMe = () => {
                                     </div>
                                 </div>
                                 <div className="tab-pane fade show" id="skill" role="tabpanel" aria-labelledby="skill-tab">
-                                    <div className="card-text-skill" style={{fontSize: '20px', paddingTop: '30px'}}> 
+                                    <div className="card-text-skill" style={{fontSize: '16px', paddingTop: '30px'}}> 
                                       <ul>
                                         <li>
                                             <span>LANGUAGES</span>
