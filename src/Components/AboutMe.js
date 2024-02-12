@@ -42,7 +42,7 @@ export const AboutMe = () => {
                                 </div>
                                 <div className="tab-pane fade show" id="edu" role="tabpanel" aria-labelledby="edu-tab">
                                     <div className="card-text-edu" style={{fontSize: '12px', paddingTop: '30px'}}> 
-                                    <h2>University Of Hawaii At Manoa</h2>
+                                    <h2>UNIVERSITY OF HAWAII AT MANOA</h2>
                                     <p>January 2022 - May 2026</p>
                                     <p>Bachelor in Information & Computer Science</p>
                                     <p>3.65 GPA</p>
@@ -53,7 +53,7 @@ export const AboutMe = () => {
                                         <li>Calculus</li>
                                     </ul>
 
-                                    <h2>Leeward Community College</h2>
+                                    <h2>LEEWARD COMMUNITY COLLEGE</h2>
                                     <p>August 2022 - December 2023</p>
                                     <ul>
                                         <li>Associates of Arts in Liberal Arts</li>
