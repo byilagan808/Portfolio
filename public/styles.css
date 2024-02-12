@@ -69,6 +69,64 @@ form input, form textarea{
     border-radius: 6px; 
 
 }
+#myTab{
+    border-bottom: 2px solid #ffff;
+
+}
+#intro-tab {
+    background-color: #262626;
+    color:#abaaba;
+    transition: transform 0.1s;
+    border: 2px solid #ffff;
+ ;
+
+}
+#intro-tab:hover{
+    background-color:#900013;
+    color:#fff;
+    transform: translateX(.5px);
+    border: 2px solid #ffff;
+
+}
+#edu-tab {
+    background-color: #262626;
+    color:#abaaba;
+    transition: transform 0.1s;
+    border: 2px solid #ffff;
+}
+#edu-tab:hover{
+    background-color:#900013;
+    color:#fff;
+    transform: translateX(.5px);
+    border: 2px solid #ffff;
+}
+#skill-tab {
+    background-color: #262626;
+    color:#abaaba;
+    transition: transform 0.1s;
+    border: 2px solid #ffff;
+}   
+#skill-tab:hover{
+    background-color:#900013;
+    color:#fff;
+    transform: translateX(.5px);
+    border: 2px solid #ffff;
+}
+.card-text-skill ul li{
+    list-style: none;
+    margin: 10px 0;
+
+}
+.card-text-skill ul li span{
+    color:#900013;
+    font-size: 14px;
+
+}
+.card-text-edu h2{
+    color:#900013;
+    font-size: 24px;
+
+}
 
 .test {
     border: solid;
