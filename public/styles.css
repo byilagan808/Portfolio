@@ -69,7 +69,7 @@ form input, form textarea{
     border-radius: 6px; 
 
 }
-#myTab{
+#myTabAbout{
     border-bottom: 2px solid #ffff;
 
 }
@@ -119,7 +119,7 @@ form input, form textarea{
 }
 .card-text-skill ul li span{
     color:#900013;
-    font-size: 24px;
+    font-size: 23px;
 
 }
 .card-text-edu h2{
@@ -127,6 +127,18 @@ form input, form textarea{
     font-size: 24px;
 
 }
+
+#proj-tab {
+    background-color: white;
+    color:black;
+  
+}   
+
+#extra-tab {
+    background-color: white;
+    color:black;
+
+}   
 
 .test {
     border: solid;

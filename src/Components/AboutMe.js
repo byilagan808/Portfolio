@@ -17,7 +17,7 @@ export const AboutMe = () => {
                             
                         </div>
                         <div className="card-body" style={{marginTop: '50px', marginBottom: '50px'}}>
-                            <ul className="nav nav-tabs" id="myTab" role="tablist">
+                            <ul className="nav nav-tabs" id="myTabAbout" role="tablist">
                                     <li className="nav-item" role="presentation">
                                         <button className="nav-link active" id="intro-tab" data-bs-toggle="tab" data-bs-target="#intro" type="button" role="tab" aria-controls="intro" aria-selected="true">Self Introduction</button>
                                     </li>
@@ -32,7 +32,7 @@ export const AboutMe = () => {
                             </ul>
                             <div className="tab-content" id="myTabContent">
                                 <div className="tab-pane fade show active" id="intro" role="tabpanel" aria-labelledby="intro-tab">
-                                    <p className="card-text" style={{fontSize: '22px', paddingTop: '30px'}}> 
+                                    <p className="card-text" style={{fontSize: '20px', paddingTop: '30px'}}> 
                                         I am pursuing a bachelor's degree in information and computer sciences at the University of Hawaii at Manoa. 
                                         I grew up in mililani, Hawaii. I developed an interest in coding after taking a handful of computer science 
                                         classes in high school. Now I am highly motivated to learn and enhance my knowledge by taking on new tasks 
@@ -41,7 +41,7 @@ export const AboutMe = () => {
                                     </p>
                                 </div>
                                 <div className="tab-pane fade show" id="edu" role="tabpanel" aria-labelledby="edu-tab">
-                                    <div className="card-text-edu" style={{fontSize: '12px', paddingTop: '30px'}}> 
+                                    <div className="card-text-edu" style={{fontSize: '10px', paddingTop: '30px'}}> 
                                     <h2>UNIVERSITY OF HAWAII AT MANOA</h2>
                                     <p>January 2022 - May 2026</p>
                                     <p>Bachelor in Information & Computer Science</p>
