@@ -9,7 +9,7 @@ export const Eight = () => {
                 <h5 className="card-tite">8-Bit</h5>
                 <p className="card-text">Dedicated to modernizing websites and apps through innovative styling and creative collaboration</p>
                 <div class="card-footer">
-                    <small class="text-muted">Joined Jan. 2024- Present</small>
+                    <small class="text-muted">Joined Jan. 2024 - Present</small>
                 </div>
             </div>
         </div>
